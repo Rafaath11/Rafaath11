@@ -8,7 +8,7 @@
 💭 Currently learning about data analytics and CloudComputing!<br/>
 
 
-[![Linkedin: rafaath ahmed](https://img.shields.io/badge/-RafaathAhmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaath-ahmed/)](https://www.linkedin.com/in/rafaath-ahmed/)
+[![Linkedin: rafaath ahmed](https://img.shields.io/badge/-RafaathAhmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaath-ahmed/)](www.linkedin.com/in/rafaath-ahmed-4b698b291)
 [![GitHub Rafaath11](https://img.shields.io/github/followers/Rafaath11?label=follow&style=social)](https://github.com/Rafaath11)
 
 
