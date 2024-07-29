@@ -1,11 +1,11 @@
 #  Hi, I'm Rafaath!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnhxMnVzc2x3azV3ajB3dHdsYWJ3bDI3cWxqMW8ydzdlb205ejFvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6vj5quVNRhoQw/giphy.gif" width="230">
 
-👩🏻‍💻 Pre-final student starting my journey and learnings in Tech.<br/>
+👩🏻‍💻 Final student starting my journey and learnings in Tech.<br/>
 👩🏻‍🎓 Studied [Computer Science/AIML](https://www.linkedin.com/in/rafaath-ahmed-4b698b291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) at the SRM University, India.<br/>
 🎨 Explore more about me at my [website]().<br/>
 🌷 I love to code.<br/>
-💭 Currently learning about data analytics and CloudComputing!<br/>
+💭 Currently learning about GDScript and GameDevelopment!<br/>
 
 
 [![Linkedin: rafaathahmed](https://img.shields.io/badge/-rafaathahmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaathahmed/)](https://www.linkedin.com/in/rafaathahmed/)
