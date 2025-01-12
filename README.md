@@ -10,6 +10,9 @@
 
 [![Linkedin: rafaathahmed](https://img.shields.io/badge/-rafaathahmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaathahmed/)](https://www.linkedin.com/in/rafaathahmed/)
 [![GitHub Rafaath11](https://img.shields.io/github/followers/Rafaath11?label=follow&style=social)](https://github.com/Rafaath11)
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rafaath11.Rafaath11&"  />
+</div>
 
 
 
