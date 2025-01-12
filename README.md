@@ -14,6 +14,9 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Rafaath11.Rafaath11&"  />
 </div>
 
+[![](https://visitcount.itsvg.in/api?id=Rafaath11&icon=10&color=1)](https://visitcount.itsvg.in)
+
+
 
 
 
@@ -38,6 +41,12 @@
 ###
 <p align="left">Hello World!!</p>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Rafaath11&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rafaath11&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaath11&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different kinds people</b> so if you want to say <b>hi, I'll be more than happy to meet you!</b> :)</em>
 
@@ -50,6 +59,9 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hp552r52fkpekstov4vmwch2zu&count=3&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Rafaath11&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ###
 <!--Snake Game -->
