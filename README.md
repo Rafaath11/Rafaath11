@@ -1,7 +1,7 @@
 #  Hi, I'm Rafaath!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <img align='center' src="https://media.giphy.com/media/3o7qE6GmiEj9QsrAKA/giphy.gif?cid=ecf05e47uay133niyilbfygraq9atrs5pq6t0xit2naes6c5&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="150">
 
-👩🏻‍💻 Final student starting my journey and learnings in Tech.<br/>
+👩🏻‍💻 Fresher developer starting my journey and learnings in Tech.<br/>
 👩🏻‍🎓 Studied [Computer Science/AIML](https://www.linkedin.com/in/rafaath-ahmed-4b698b291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) at the SRM University, India.<br/>
 🎨 Explore more about me at my [website]().<br/>
 💀 I love to code.<br/>
